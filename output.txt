@@ -1,0 +1,77 @@
+📄 METADATA
+Title: The Effect of Procrastination on Physical Exercise among College Students—The Chain Effect of Exercise Commitment and Action Control
+Authors: Wenjuan Zhang, Menglin Xu, Yujuan Feng, Zhixiong Mao, Zengyin Yan
+Year: 2024
+Keywords: college, procrastination, exercise, commitment, action
+
+Abstract:
+Exercise procrastination is prevalent among college students, causing a decline in physical fitness. This study investigates the effect of procrastination on physical exercise behavior, along with the chain mediation effects of exercise commitment and action control. A questionnaire-based study was conducted on 581 college students using validated scales and statistical models. Results show that procrastination negatively affects exercise behavior, while exercise commitment and action control fully mediate this relationship. The chain mediation effect also plays a significant role, indicating that improving commitment and action control can reduce procrastination and enhance physical activity among students.
+
+Citations Found: 64
+Valid: 64 | Invalid: 0
+
+VALID CITATIONS:
+[1] -> [1] Huang MR, Zhang YP, Sun H. Promotion mechanisms of college students’ mixing sports into life under social ecological model.
+[2] -> [2] Zhu XQ. Influence of procrastination on exercise behavior of college students: an intermediary effect of exercise motivation.
+[3] -> [3] Wang Z, Hu GP, Cai YJ, Zhang L. Effect of procrastination on physical exercise motivation.
+[4] -> [4] Yang J, Liu ZL, Ji T. Relation between exercise intention and behavior.
+[5] -> [5] Tao Y, Yu H, Liu M, Wang P, Zhang J, Yang Y. Procrastination and physical activity.
+[6] -> [6] Rapoport O, Bengel S, Möcklinghoff S, Neidhardt E. Self-compassion and procrastination.
+[7] -> [7] Rebetez MML, Rochat L, Barsics C, Van der Linden M. Procrastination as self-regulation failure.
+[8] -> [8] Kelly SM, Walton HR. Procrastination in exercise scale.
+[9] -> [9] To PYL, Lo BCY, Ng TK, Wong BPH, Choi AWM. Stress and procrastination.
+[10] -> [10] Rozental A, Forsström D, Hussoon A, Klingsieck KB. Procrastination in students.
+[11] -> [11] Chu Q, Xiao R, Lin Q. Procrastination behavior of university students.
+[12] -> [12] Zhong J, Chu YD. Relationship between procrastination and physical activity.
+[13] -> [13] Shan HB, Zhang YL, Wei M, Xin YJ. Self-control and anxiety.
+[14] -> [14] Shi M, Zhai X, Li S, Fan X. Physical activity and phone addiction.
+[15] -> [15] Ren K, Liu X, Feng Y, Li C. Academic procrastination and exercise.
+[16] -> [16] Steel P. Nature of procrastination.
+[17] -> [17] Yang YH. Self-compassion and exercise procrastination.
+[18] -> [18] Zhang Y, Yang J, Wu M. Time efficiency and exercise behavior.
+[19] -> [19] Pan YX. Peer support and exercise procrastination.
+[20] -> [20] Watson DC. Procrastination and personality.
+[21] -> [21] Kroese FM, De Ridder DTD. Health behavior procrastination.
+[22] -> [22] Lin L, Bai XW. Academic procrastination study.
+[23] -> [23] Klingsieck KB, Weigelt M. Procrastination in sports.
+[24] -> [24] Lu L, Dong BL. Self-efficacy and procrastination.
+[25] -> [25] Chen SP, Li SZ. Sport commitment model.
+[26] -> [26] Wu J, Chen SP, Pan HS. Exercise persistence decisions.
+[27] -> [27] Dong BL, Mao LJ. Exercise involvement and habits.
+[28] -> [28] Gollwitzer PM, Sheeran P. Implementation intentions.
+[29] -> [29] Dong WB. Exercise intention and behavior.
+[30] -> [30] Wu ZY. Exercise adherence model.
+[31] -> [31] Dong BL, Mao LJ. Exercise identity and commitment.
+[32] -> [32] Hong JJ, Li SH. Sports environment effects.
+[33] -> [33] Koppenborg M, Klingsieck KB. Group work and procrastination.
+[34] -> [34] Lin L. Planned behavior and procrastination.
+[35] -> [35] Rhodes RE, Quinlan A. Physical activity prediction.
+[36] -> [36] Zhang SM. Temporal decision model.
+[37] -> [37] Zhang WJ, Mao ZX. Action control and behavior.
+[38] -> [38] Kuhl J. Action control theory.
+[39] -> [39] Lee K, Lee K. Exercise intention and action control.
+[40] -> [40] Reyes Fernández B, Fleig L. Action control study.
+[41] -> [41] Zhang SM, Feng TY. Decision model for procrastination.
+[42] -> [42] Geng JY, Hou X. Anxiety and procrastination.
+[43] -> [43] Hall PA, Zehr CE. Implementation intentions in activity.
+[44] -> [44] Yang ZH. Planned behavior and action control.
+[45] -> [45] Reyes Fernández B, Knoll N. Hand washing behavior study.
+[46] -> [46] Gollwitzer PM. Implementation intentions theory.
+[47] -> [47] Klingsieck KB. Procrastination overview.
+[48] -> [48] Namadian M, Presseau J. Walking behavior predictors.
+[49] -> [49] Feng MN. Action control execution study.
+[50] -> [50] Lay CH. Research on procrastination.
+[51] -> [51] Chen SP, Li SZ. Exercise behavior adherence.
+[52] -> [52] Liang DQ. Stress and physical exercise.
+[53] -> [53] Fang J, Wen Z. Mediation effects analysis.
+[54] -> [54] Wen Z, Zhang L. Mediating effects testing.
+[55] -> [55] Codina N, Pestana JV. Physical activity and procrastination.
+[56] -> [56] Li J, Li ZH. Exercise procrastination factors.
+[57] -> [57] Scanlan TK, Carpenter PJ. Sport commitment model.
+[58] -> [58] Qiu F, Cui DG. Exercise behavior factors.
+[59] -> [59] Wilson PM, Rodgers WM. Commitment and exercise.
+[60] -> [60] Becker HS. Concept of commitment.
+[61] -> [61] Kuhl J. Achievement motivation theory.
+[62] -> [62] Blunt A, Pychyl TA. Project procrastination.
+[63] -> [63] De Bruijn GJ, Verkooijen K. Exercise identity study.
+[64] -> [64] Feng YJ, Mao ZX. Physical activity strategies.
